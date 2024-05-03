@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "course_id": 1,
+      "course_name": "Web Development Fundamentals",
+      "instructor": "Prof. Sarah Johnson",
+      "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "topics": ["HTML", "CSS", "JavaScript"],
+      "image_url": "https://source.unsplash.com/400x400/?coding"
+    },
+    {
+      "course_id": 2,
+      "course_name": "Introduction to Python Programming",
+      "instructor": "Dr. Michael Smith",
+      "description": "Get started with Python programming language, covering basic syntax, data types, and control structures.",
+      "duration": "10 weeks",
+      "level": "Beginner",
+      "topics": ["Python Syntax", "Data Types", "Control Structures"],
+      "image_url": "https://source.unsplash.com/400x400/?python"
+    },
+    {
+      "course_id": 3,
+      "course_name": "Mobile App Development with React Native",
+      "instructor": "Emily White",
+      "description": "Learn to build cross-platform mobile apps using React Native framework.",
+      "duration": "12 weeks",
+      "level": "Intermediate",
+      "topics": ["React Native", "Navigation", "State Management"],
+      "image_url": "https://source.unsplash.com/400x400/?mobile-development"
+    },
+    {
+      "course_id": 4,
+      "course_name": "Data Science and Machine Learning",
+      "instructor": "Dr. John Doe",
+      "description": "An introduction to data science and machine learning concepts, including data analysis, machine learning algorithms, and model evaluation.",
+      "duration": "10 weeks",
+      "level": "Intermediate",
+      "topics": ["Data Analysis", "Machine Learning Algorithms", "Model Evaluation"],
+      "image_url": "https://source.unsplash.com/400x400/?data-science"
+    },
+    {
+      "course_id": 5,
+      "course_name": "Cybersecurity Fundamentals",
+      "instructor": "Prof. Alex Johnson",
+      "description": "Learn the fundamentals of cybersecurity, including network security, encryption, and risk assessment.",
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "topics": ["Network Security", "Encryption", "Risk Assessment"],
+      "image_url": "https://source.unsplash.com/400x400/?cybersecurity"
+    },
+    {
+      "course_id": 6,
+      "course_name": "Full-Stack Web Development with MERN",
+      "instructor": "David Smith",
+      "description": "Learn to build full-stack web applications using the MERN (MongoDB, Express.js, React, Node.js) stack.",
+      "duration": "12 weeks",
+      "level": "Intermediate",
+      "topics": ["MongoDB", "Express.js", "React", "Node.js"],
+      "image_url": "https://source.unsplash.com/400x400/?fullstack"
+    }
+  ]
+}
